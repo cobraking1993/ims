@@ -1,0 +1,13 @@
+current directory: /home/droid-dev/Naga/Documents/IMO/rims-master/vendor/gems/ruby/2.4.0/gems/json-2.1.0/ext/json
+/usr/local/rvm/rubies/ruby-2.4.1/bin/ruby -r ./siteconf20180511-8118-1m2avgo.rb extconf.rb
+creating Makefile
+
+current directory: /home/droid-dev/Naga/Documents/IMO/rims-master/vendor/gems/ruby/2.4.0/gems/json-2.1.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/droid-dev/Naga/Documents/IMO/rims-master/vendor/gems/ruby/2.4.0/gems/json-2.1.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/droid-dev/Naga/Documents/IMO/rims-master/vendor/gems/ruby/2.4.0/gems/json-2.1.0/ext/json
+make "DESTDIR=" install

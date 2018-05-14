@@ -1,0 +1,20 @@
+current directory: /home/padmanagarajan/home/Documents/IMO/rims-master/vendor/gems/ruby/2.3.0/gems/therubyracer-0.12.3/ext/v8
+/usr/bin/ruby2.3 -r ./siteconf20180512-6919-16fs6aq.rb extconf.rb
+checking for main() in -lpthread... yes
+creating Makefile
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /home/padmanagarajan/home/Documents/IMO/rims-master/vendor/gems/ruby/2.3.0/extensions/x86_64-linux/2.3.0/therubyracer-0.12.3/mkmf.log
+
+current directory: /home/padmanagarajan/home/Documents/IMO/rims-master/vendor/gems/ruby/2.3.0/gems/therubyracer-0.12.3/ext/v8
+make "DESTDIR=" clean
+
+current directory: /home/padmanagarajan/home/Documents/IMO/rims-master/vendor/gems/ruby/2.3.0/gems/therubyracer-0.12.3/ext/v8
+make "DESTDIR="
+compiling accessor.cc
+make: g++: Command not found
+Makefile:207: recipe for target 'accessor.o' failed
+make: *** [accessor.o] Error 127
+
+make failed, exit code 2
